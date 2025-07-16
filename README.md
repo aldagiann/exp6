@@ -1,1 +1,1 @@
-# exp6
+a / fondo dinamico
